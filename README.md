@@ -1,5 +1,4 @@
 # Stock_Tracker
-The Stock Tracker function can track stock entries of the user.
 
 **Note:** In the following “database” means a data structure (array, linked list, etc.) in the memory that contains the data.
 
